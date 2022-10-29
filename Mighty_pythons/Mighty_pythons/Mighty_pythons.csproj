@@ -257,6 +257,7 @@
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="index.html" />
     <Content Include="landingpage.aspx" />
+    <Content Include="logissue.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
@@ -325,6 +326,13 @@
     </Compile>
     <Compile Include="landingpage.aspx.designer.cs">
       <DependentUpon>landingpage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="logissue.aspx.cs">
+      <DependentUpon>logissue.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="logissue.aspx.designer.cs">
+      <DependentUpon>logissue.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
