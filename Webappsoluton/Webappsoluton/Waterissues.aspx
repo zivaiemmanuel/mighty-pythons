@@ -81,6 +81,20 @@
     </div>
   </header>
 
+  <section id="contact" class="contact">
+    <div class="container" data-aos="fade-up">
+      <div class="section-title">
+
+      </div>
+    </div>
+
+  </section>
+
+  <section>
+    <div class="col-lg-8 mt-5 mt-lg-0">
+      
+    </div>
+  </section>
 
     <footer id="footer">
 
