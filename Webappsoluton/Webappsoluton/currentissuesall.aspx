@@ -78,7 +78,43 @@
 
     </div>
   </header>
-
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+    <div class="section-title">
+          <h2>All know issues</h2>
+        <p>if you dont see your ZIP that means your area curently has no issues</p>
+        </div>
+        <div class="allissues" style="margin-left: 10px; border-radius: 5px; text-align: justify;  ">
+        <h2>2001</h2>
+            
+                <ul>
+                    <li>Loadsheeding currently</li>
+                    <li> acident on M3</li>
+               </ul>
+            
+        <h2>1397</h2>
+                <ul>
+                    <li>Loadsheeding currently</li>
+                   
+               </ul>
+        <h2>7140</h2>
+                <ul>
+                    <li>Burst pipe on red street</li>
+               </ul>
+        <h2>1988</h2>
+        <ul>
+                    <li>Loadsheeding currently</li>
+                    <li>man whole over flow blue street</li>
+                    <li>Green street closed for work</li>
+               </ul>
+        <h2>2005</h2>
+        <ul>
+                    <li>Transformer blowen</li>
+               </ul>
+        
+     </div>
+    </div>
+        </section>
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 

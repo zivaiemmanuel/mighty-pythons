@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Alert.aspx" />
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\about-video.jpg" />
     <Content Include="assets\img\apple-touch-icon.png" />
@@ -296,6 +297,13 @@
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alert.aspx.cs">
+      <DependentUpon>Alert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Alert.aspx.designer.cs">
+      <DependentUpon>Alert.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>

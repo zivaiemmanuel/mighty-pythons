@@ -1934,3 +1934,11 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.allissues {
+    margin-right: 4px;
+    border-radius: 5px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
