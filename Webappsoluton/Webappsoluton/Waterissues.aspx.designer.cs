@@ -11,7 +11,7 @@ namespace Webappsoluton
 {
 
 
-    public partial class currentissuesall
+    public partial class Waterissues
     {
     }
 }

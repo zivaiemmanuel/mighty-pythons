@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Waterissues.aspx.cs" Inherits="Webappsoluton.Waterissues" %>
 
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="currentissuesall.aspx.cs" Inherits="Webappsoluton.currentissuesall" %>
+
 
 <!DOCTYPE html>
 
