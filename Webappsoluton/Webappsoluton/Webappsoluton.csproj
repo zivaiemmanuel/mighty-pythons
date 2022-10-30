@@ -205,6 +205,8 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="Currentissues2001.aspx" />
+    <Content Include="currentissuesall.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -309,6 +311,20 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Currentissues2001.aspx.cs">
+      <DependentUpon>Currentissues2001.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Currentissues2001.aspx.designer.cs">
+      <DependentUpon>Currentissues2001.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="currentissuesall.aspx.cs">
+      <DependentUpon>currentissuesall.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="currentissuesall.aspx.designer.cs">
+      <DependentUpon>currentissuesall.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>

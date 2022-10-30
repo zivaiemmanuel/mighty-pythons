@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Webappsoluton.About1" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Currentissues2001.aspx.cs" Inherits="Webappsoluton.Currentissues2001" %>
 
 <!DOCTYPE html>
 
@@ -49,7 +49,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="landingpage.aspx">Home</a></li>
           <li><a class="nav-link scrollto" href="About.aspx">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Current issues</a></li>
+          <li><a class="nav-link scrollto" href="currentissuesall.aspx">Current issues</a></li>
           <li><a class="nav-link scrollto o" href="#portfolio">Current projects</a></li>
           <li><a class="nav-link scrollto" href="#team">Alert</a></li>
           
@@ -71,7 +71,7 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Log Issue</a></li>
+          <li><a class="getstarted scrollto" href="logissue.aspx">Log Issue</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -79,44 +79,7 @@
     </div>
   </header>
 
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>About Us</h2>
-          <p>A build for the goverment to serve you  </p>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              Engage is an interactive network that provides an open communication forum that connects the 
-                public with municipalities and local departments in the communities they serve.  
-                Engage enables real-time, two-way communication through text, email, voice messages, 
-                social media, and the Engage mobile app.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Email</li>
-              <li><i class="ri-check-double-line"></i> Instant messages</li>
-              
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              The Engage notification system is relied on by over various government agencies such as 
-                municipalities and local departments. Engage is for everyday use for public information 
-                sharing and it is also ideal for critical situations such as load shedding, severe weather 
-                events, safety hazards, security threats, facilities problems, citizen notification, and 
-                IT/network disruptions.
-            </p>
-            <a href="#footer" class="btn-learn-more">Learn More</a>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-<footer id="footer">
+    <footer id="footer">
 
     <div class="footer-top">
       <div class="container">
@@ -195,3 +158,4 @@
   <script src="assets/js/main.js"></script>
 </body>
 </html>
+

@@ -47,9 +47,9 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Current issues</a></li>
+          <li><a class="nav-link scrollto active" href="landingpage.aspx">Home</a></li>
+          <li><a class="nav-link scrollto" href="About.aspx">About</a></li>
+          <li><a class="nav-link scrollto" href="currentissuesall.aspx">Current issues</a></li>
           <li><a class="nav-link scrollto o" href="#portfolio">Current projects</a></li>
           <li><a class="nav-link scrollto" href="#team">Alert</a></li>
           
@@ -71,7 +71,7 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Log Issue</a></li>
+          <li><a class="getstarted scrollto" href="logissue.aspx">Log Issue</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -91,7 +91,7 @@
          <form runat="server">
          <asp:TextBox ID="ZIP" runat="server">Enter your zip</asp:TextBox>
         
-        <a href="#about" class="btn-get-started scrollto">My info</a>
+        <a href="currentissues2001.aspx" class="btn-get-started scrollto">My info</a>
         </form>
       </div>
 
@@ -142,7 +142,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Current issues</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="currentissuesall.aspx">Current issues</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Current projects</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Alert</a></li>
             </ul>

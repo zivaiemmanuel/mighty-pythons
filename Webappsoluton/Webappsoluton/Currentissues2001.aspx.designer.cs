@@ -11,7 +11,7 @@ namespace Webappsoluton
 {
 
 
-    public partial class About1
+    public partial class Currentissues2001
     {
     }
 }
