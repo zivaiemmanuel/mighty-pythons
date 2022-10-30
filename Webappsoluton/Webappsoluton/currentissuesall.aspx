@@ -51,7 +51,7 @@
           <li><a class="nav-link scrollto" href="About.aspx">About</a></li>
           <li><a class="nav-link scrollto" href="currentissuesall.aspx">Current issues</a></li>
           <li><a class="nav-link scrollto o" href="#portfolio">Current projects</a></li>
-          <li><a class="nav-link scrollto" href="#team">Alert</a></li>
+          <li><a class="nav-link scrollto" href="Alert.aspx">Alert</a></li>
           
           <li class="dropdown"><a href="#"><span>utilities</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
