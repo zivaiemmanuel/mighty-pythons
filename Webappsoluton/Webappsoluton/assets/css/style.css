@@ -183,6 +183,8 @@ h6 {
 
 .navbar li {
   position: relative;
+    top: 76px;
+    left: 314px;
 }
 
 .navbar a,
