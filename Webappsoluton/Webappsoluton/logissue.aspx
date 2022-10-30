@@ -8,7 +8,7 @@
 </head>
 <body>
     <div style=" border-block:solid;  ">
-    <form id="form1" runat="server" ">
+    <form id="form1" runat="server" >
         
         <label>Enter your email address below:</label><br />
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><br /><br />
