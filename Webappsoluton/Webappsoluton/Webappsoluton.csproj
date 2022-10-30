@@ -208,6 +208,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="Currentissues2001.aspx" />
     <Content Include="currentissuesall.aspx" />
+    <Content Include="Currentprojects.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -334,6 +335,13 @@
     </Compile>
     <Compile Include="currentissuesall.aspx.designer.cs">
       <DependentUpon>currentissuesall.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Currentprojects.aspx.cs">
+      <DependentUpon>Currentprojects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Currentprojects.aspx.designer.cs">
+      <DependentUpon>Currentprojects.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
